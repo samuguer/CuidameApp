@@ -30,7 +30,8 @@ Usar la tecnología de forma humana y práctica, para mejorar la calidad de vida
 
 ## 📸 Capturas de pantalla
 
-*Pendiente de añadir imagen*
+<img width="1024" height="1536" alt="Captura CuidameApp" src="https://github.com/user-attachments/assets/33e6f82e-2eb2-4129-83d3-61692b696f6c" />
+
 
 ---
 
