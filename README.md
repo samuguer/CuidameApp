@@ -1,6 +1,6 @@
 # 💊 Cuídame – App Android para recordar la medicación
 
-![Captura de la app](A_digital_photograph_depicts_a_smartphone_screen_d.png)
+<img width="1024" height="1536" alt="Captura CuidameApp" src="https://github.com/user-attachments/assets/f5a83793-81ad-4741-969c-091bdf74c472" />
 
 **Cuídame** es una aplicación Android desarrollada en Java que ayuda a personas mayores o con enfermedades crónicas a recordar cuándo deben tomar sus medicamentos.
 
